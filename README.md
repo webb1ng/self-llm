@@ -72,6 +72,23 @@
 
 ### 已支持模型
 
+- [SpatialLM](https://github.com/manycore-research/SpatialLM)
+  - [x] [SpatialLM 3D点云理解与目标检测模型部署](./models/SpatialLM/readme.md) @王泽宇
+
+- [Hunyuan3D-2](https://huggingface.co/tencent/Hunyuan3D-2)
+  - [x] [Hunyuan3D-2 系列模型部署](./models/Hunyuan3D-2/01-Hunyuan3D-2%20系列模型部署.md) @林恒宇
+  - [x] [Hunyuan3D-2 系列模型代码调用](./models/Hunyuan3D-2/02-Hunyuan3D-2%20系列模型代码调用.md) @林恒宇
+  - [x] [Hunyuan3D-2 系列模型Gradio部署](./models/Hunyuan3D-2/03-Hunyuan3D-2%20系列模型Gradio部署.md) @林恒宇
+  - [x] [Hunyuan3D-2 系列模型API Server](./models/Hunyuan3D-2/04-Hunyuan3D-2%20系列模型API%20Server.md) @林恒宇
+  - [x] [Hunyuan3D-2 Docker 镜像](https://www.codewithgpu.com/i/datawhalechina/self-llm/Hunyuan3D-2) @林恒宇
+
+- [Gemma3](https://huggingface.co/google/gemma-3-4b-it)
+  - [x] [gemma-3-4b-it FastApi 部署调用](./models/Gemma3/01-gemma-3-4b-it%20FastApi%20部署调用.md) @杜森
+  - [x] [gemma-3-4b-it ollama + open-webui部署](./models/Gemma3/03-gemma-3-4b-it-ollama%20+%20open-webui部署.md) @孙超
+  - [x] [gemma-3-4b-it evalscope 智商情商评测](./models/Gemma3/04-Gemma3-4b%20%20evalscope智商情商评测.md) @张龙斐
+  - [x] [gemma-3-4b-it Lora 微调](./models/Gemma3/05-gemma-3-4b-it%20LoRA.md) @荞麦
+  - [x] [gemma-3-4b-it Docker 镜像](https://www.codewithgpu.com/i/datawhalechina/self-llm/self-llm-gemma3) @姜舒凡
+
 - [DeepSeek-R1-Distill](https://www.modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B)
   - [x] [DeepSeek-R1-Distill-Qwen-7B FastApi 部署调用](./models/DeepSeek-R1-Distill-Qwen/01-DeepSeek-R1-Distill-Qwen-7B%20FastApi%20部署调用.md) @骆秀韬
   - [x] [DeepSeek-R1-Distill-Qwen-7B Langchain 接入](./models/DeepSeek-R1-Distill-Qwen/02-DeepSeek-R1-Distill-Qwen-7B%20Langchain%20接入.md) @骆秀韬
@@ -335,23 +352,25 @@
 - [林泽毅](https://github.com/Zeyi-Lin)（内容创作者-SwanLab产品负责人）
 - [张帆](https://github.com/zhangfanTJU)（内容创作者-Datawhale成员）
 - [姜舒凡](https://github.com/Tsumugii24)（内容创作者-Datawhale成员）
+- [王泽宇](https://github.com/moyitech)（内容创作者-太原理工大学-鲸英助教）
 - [李娇娇](https://github.com/Aphasia0515) （Datawhale成员）
 - [丁悦](https://github.com/dingyue772) （Datawhale-鲸英助教）
-- [王泽宇](https://github.com/moyitech)（内容创作者-太原理工大学-鲸英助教）
+- [林恒宇](https://github.com/LINHYYY)（内容创作者-广东东软学院-鲸英助教）
 - [惠佳豪](https://github.com/L4HeyXiao) （Datawhale-宣传大使）
 - [王茂霖](https://github.com/mlw67)（内容创作者-Datawhale成员）
 - [孙健壮](https://github.com/Caleb-Sun-jz)（内容创作者-对外经济贸易大学）
 - [东东](https://github.com/LucaChen)（内容创作者-谷歌开发者机器学习技术专家）
 - [高立业](https://github.com/0-yy-0)（内容创作者-DataWhale成员）
+- [荞麦](https://github.com/yeyeyeyeeeee)（内容创作者-Datawhale成员）
 - [Kailigithub](https://github.com/Kailigithub) （Datawhale成员）
 - [郑皓桦](https://github.com/BaiYu96) （内容创作者）
 - [李柯辰](https://github.com/Joe-2002) （Datawhale成员）
 - [程宏](https://github.com/chg0901)（内容创作者-Datawhale意向成员）
+- [骆秀韬](https://github.com/anine09)（内容创作者-Datawhale成员-似然实验室）
 - [陈思州](https://github.com/jjyaoao) （Datawhale成员）
 - [散步](https://github.com/sanbuphy) （Datawhale成员）
 - [颜鑫](https://github.com/thomas-yanxin) （Datawhale成员）
-- [荞麦](https://github.com/yeyeyeyeeeee)（内容创作者-Datawhale成员）
-- [骆秀韬](https://github.com/anine09)（内容创作者-Datawhale成员-似然实验室）
+- [杜森](https://github.com/study520ai520)（内容创作者-Datawhale成员-南阳理工学院）
 - [Swiftie](https://github.com/cswangxiaowei) （小米NLP算法工程师）
 - [黄柏特](https://github.com/KashiwaByte)（内容创作者-西安电子科技大学）
 - [张友东](https://github.com/AXYZdong)（内容创作者-Datawhale成员）
@@ -364,7 +383,6 @@
 - [邓恺俊](https://github.com/Kedreamix)（内容创作者-Datawhale成员）
 - [赵文恺](https://github.com/XiLinky)（内容创作者-太原理工大学-鲸英助教）
 - [付志远](https://github.com/comfzy)（内容创作者-海南大学）
-- [杜森](https://github.com/study520ai520)（内容创作者-Datawhale成员-南阳理工学院）
 - [郑远婧](https://github.com/isaacahahah)（内容创作者-鲸英助教-福州大学）
 - [谭逸珂](https://github.com/LikeGiver)（内容创作者-对外经济贸易大学）
 - [王熠明](https://github.com/Bald0Wang)（内容创作者-Datawhale成员）
@@ -375,7 +393,8 @@
 - [赵伟](https://github.com/2710932616)（内容创作者-鲸英助教）
 - [苏向标](https://github.com/gzhuuser)（内容创作者-广州大学-鲸英助教）
 - [陈睿](https://github.com/riannyway)（内容创作者-西交利物浦大学-鲸英助教）
-- [林恒宇](https://github.com/LINHYYY)（内容创作者-广东东软学院-鲸英助教）
+- [张龙斐](https://github.com/Feimike09)（内容创作者-鲸英助教）
+- [孙超](https://github.com/anarchysaiko)（内容创作者-Datawhale成员）
 
 > 注：排名根据贡献程度排序
 
